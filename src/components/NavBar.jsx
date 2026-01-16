@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Home, Users, Info, Github, SquareArrowOutUpRight, Menu, X } from 'lucide-react';
+import { Home, Users, Info, GitHub, SquareArrowOutUpRight, Menu, X } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
 import styles from './NavBar.module.css';
 import GlassCard from '@components/GlassCard';
@@ -17,7 +17,7 @@ const EXTERNAL_LINKS = [
   {
     href: 'https://github.com/Ryan-Millard/Img2Num',
     label: 'GitHub',
-    icon: Github,
+    icon: GitHub,
     tooltip: 'Open the project on GitHub',
   },
 ];
