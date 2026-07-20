@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/d75b402e-03af-403f-8637-f9eb8a24c8c0" alt="Logo" height="100px" />
 
-# Img2Num
+# Img2Nummmm
 
 _Img2Num_ is a fast and accurate raster vectorizer. 
 
