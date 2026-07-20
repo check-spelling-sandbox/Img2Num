@@ -101,7 +101,7 @@ export async function initWasmWorker() {
  *
  * @description
  * Directly send a request to the WASM worker to call the specified function,
- * passing specific buffers and and arguments.
+ * passing specific buffers and arguments.
  *
  * @async
  * @function callWasm
